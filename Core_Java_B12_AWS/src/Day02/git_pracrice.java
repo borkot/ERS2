@@ -9,6 +9,7 @@ public class git_pracrice {
 		
 		System.out.println(" Borkot Chowdhury");
 		System.out.println(" Jamaica");
+		System.out.println("New york USA");
 		}
 	}
 
